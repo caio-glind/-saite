@@ -16,7 +16,7 @@ p
 .banner
 {
     position: relative;
-    width:100%;
+    width:182.5vh;
     min-height: 100vh;
     display:flex;
     justify-content: center;
@@ -270,7 +270,7 @@ margin-top: 40px;
 {
     background: url(bg2.jpg);
     background-size: cover;
-    width:100%;
+    width:182.5vh;
     min-height: 100vh;
 }
 .white .titleText,
@@ -290,7 +290,7 @@ color: #fff;
 {
     width: 300px;
     margin: 30px;
-    padding: 40px;
+    padding: 4px;
     background:  #fff;
     display: flex;
     justify-content: center;
@@ -396,6 +396,7 @@ color: #fff;
 }
 .copyrightText
 {
+  
     padding: 8px 40px;
     border-top:1px solid rgba(0,0,0,0.1);
     text-align: center;
@@ -474,6 +475,7 @@ background: #fff;
     }
  .banner
 {
+    width:80%;
     align-content: center;
     position: relative;
     padding:  15px 40px;
@@ -491,6 +493,7 @@ background: #fff;
     }
     .testimonials
 {
+    width: 100%;
     align-content: center;
     position: relative; 
     padding:  10px 1px;
